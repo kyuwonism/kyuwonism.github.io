@@ -6,14 +6,30 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Oct 2021 13:33:52 +0900</pubDate>
-    <lastBuildDate>Tue, 12 Oct 2021 13:33:52 +0900</lastBuildDate>
+    <pubDate>Tue, 12 Oct 2021 14:09:19 +0900</pubDate>
+    <lastBuildDate>Tue, 12 Oct 2021 14:09:19 +0900</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
+    
+      <item>
+        <title>[jQuery] 스크롤 시 작동하는 이벤트</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/jquery_logo.png&quot; style=&quot;width:340px; height:340px&quot; /&gt;&lt;/p&gt; &lt;p&gt;작업을 하다가 보니 특정 오브젝트가 화면에서 사라젔을 때 (스크롤을 내려서 더 이상 화면에 노출되지 않을 때) 이벤트를 작동 시키도록 하려는 상황이 생겨서 이를 알아보았다.&lt;/p&gt; &lt;div...</description>
+        <pubDate>Tue, 12 Oct 2021 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jquery/2021/10/12/jQuery_%EC%8A%A4%ED%81%AC%EB%A1%A4_%EC%8B%9C_%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94_%EC%9D%B4%EB%B2%A4%ED%8A%B8.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jquery/2021/10/12/jQuery_%EC%8A%A4%ED%81%AC%EB%A1%A4_%EC%8B%9C_%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94_%EC%9D%B4%EB%B2%A4%ED%8A%B8.html</guid>
+        
+        <category>javascript</category>
+        
+        <category>jquery</category>
+        
+        
+        <category>jQuery</category>
+        
+      </item>
     
       <item>
         <title>첫 깃블로그 포스팅</title>
         <description>&lt;h1 id=&quot;1-드디어-첫번째-테스트-포스팅을-합니다&quot;&gt;1. 드디어 첫번째 테스트 포스팅을 합니다.&lt;/h1&gt;
-&lt;p&gt;너무 힘들었습니다.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;이제&lt;/u&gt; 마크다운에 조금 더 친숙해지기 위한 공부가 필요하다고 생각합니다..&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 12 Oct 2021 00:00:00 +0900</pubDate>
@@ -141,18 +157,6 @@
         <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
         <link>http://localhost:4000/dummy/2015/04/19/dummy2.html</link>
         <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/19/dummy2.html</guid>
-        
-        
-        <category>Dummy</category>
-        
-      </item>
-    
-      <item>
-        <title>Dummy Post</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
-        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
-        <link>http://localhost:4000/dummy/2015/04/19/dummy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/19/dummy.html</guid>
         
         
         <category>Dummy</category>
